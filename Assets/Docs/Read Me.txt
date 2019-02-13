@@ -1,0 +1,5 @@
+After building the app here's how you would invoke it.
+1. Open your preferred command line tool and start the app like this:
+2. "..../command-line-standalone-app.exe" -batchmode "Argument 1" "Argument 2".....
+
+Note: The app will also accept -batchmode as an argument.
